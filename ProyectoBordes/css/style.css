@@ -1,0 +1,86 @@
+#p1 {padding: 10px;
+background: rgb(235, 250, 27);
+display: inline-block;
+width: 150px;
+border-radius: 5px;
+border: 2px solid #000;
+}
+#p2 {padding: 10px;
+    background: rgb(235, 250, 27);;
+    display: inline-block;
+    width: 150px;
+    border-radius: 10px;
+    border: 2px solid #000;
+    }
+    #p3 {padding: 10px;
+        background:rgb(235, 250, 27);
+        display: inline-block;
+        width: 150px;
+        border-radius: 20px;
+        border: 2px solid #000;
+        }
+        #p4 {padding: 10px;
+            background:rgb(235, 250, 27);
+            display: inline-block;
+            width: 150px;
+            border-radius: 40px;
+            border: 2px solid #000;
+            }
+            #p5 {padding: 10px;
+                background: rgb(235, 250, 27);
+                display: inline-block;
+                width: 150px;
+                border-radius: 60px;
+                border: 2px solid #000;
+                }
+                #p6 {padding: 10px;
+                    background: rgb(235, 250, 27);
+                    display: inline-block;
+                    width: 150px;
+                    border-top-left-radius:40%;
+                    border: 2px solid #000;
+                    }
+                    #p7 {padding: 10px;
+                        background: rgb(235, 250, 27);
+                        display: inline-block;
+                        width: 150px;
+                        border-radius:80px 20px;
+                        border: 2px solid #000;
+                        }
+                        #p8{padding: 10px;
+                            background: rgb(235, 250, 27);
+                            display: inline-block;
+                            width: 150px;
+                            border-radius: 60px 20px 5px;
+                            border: 2px solid #000;
+                            }
+                            #p9 {padding: 10px;
+                                background: rgb(235, 250, 27);
+                                display: inline-block;
+                                width: 150px;
+                                border-radius: 60px 20px 5px 90px;
+                                border: 2px solid #000;
+                                }
+                                #p10 {padding: 10px;
+                                    background:rgb(235, 250, 27);
+                                    display: inline-block;
+                                    width: 150px;
+                                    border-radius: 60px/20px;
+                                    border: 2px solid #000;
+                                    }
+                                    #p11 {padding: 10px;
+                                        background:rgb(235, 250, 27);
+                                        display: inline-block;
+                                        width: 150px;
+                                        border-radius: 13em/3em;
+                                        border: 5px solid rgb(211, 103, 2);
+                                        border-style: double;
+                                        }
+                                        #p12 {padding: 10px;
+                                            background: rgb(235, 250, 27);
+                                            display: inline-block;
+                                            width: 150px;
+                                            border-radius: 50%;
+                                            border: 3px solid rgb(211, 103, 2);
+                                            }
+
